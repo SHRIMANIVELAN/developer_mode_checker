@@ -4,7 +4,7 @@
             "outputFile": "com.example.developer_mode_checker.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/shrimani.velan/flutter projects/developer_mode_checker/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/shrimani.velan/flutter projects/my_github/developer_mode_checker/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
